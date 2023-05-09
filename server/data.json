@@ -1,0 +1,52 @@
+[
+  {
+    "_id": 1,
+    "fortune": "You have a secret admirer.",
+    "category": "love"
+  },
+  {
+    "_id": 2,
+    "fortune": "How many times have I told you to stay away from the power couplings?",
+    "category": "future"
+  },
+  {
+    "_id": 3,
+    "fortune": "We don't know the future, but you just got a free cookie.",
+    "category": "luck"
+  },
+  {
+    "_id": 4,
+    "fortune": "Error 404.  Fortune not found.",
+    "category": "tech"
+  },
+  {
+    "_id": 5,
+    "fortune": "Here are last week's lottery numbers: 22, 36, 54.",
+    "category": "luck"
+  },
+  {
+    "_id": 6,
+    "fortune": "Imitation is the greatest form of flattery.",
+    "category": "quotes"
+  },
+  {
+    "_id": 7,
+    "fortune": "Imitation is the greatest form of flattery.",
+    "category": "quotes"
+  },
+  {
+    "_id": 8,
+    "fortune": "If you think that no one cares that you're alive, try missing a few car payments.",
+    "category": "quotes"
+  },
+  {
+    "_id": 9,
+    "fortune": "Having children is like being pecked to death by a duck.",
+    "category": "quotes"
+  },
+  {
+    "_id": 10,
+    "fortune": "You are not illiterate.",
+    "category": "quotes"
+  }
+]
